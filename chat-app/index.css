@@ -1,0 +1,74 @@
+body{
+    margin:0;
+    background-color: rgb(37, 35, 35);
+    color:white;
+    height:100%
+}
+
+/*******HEADER*********/
+.nav-bar{
+    height:100px;
+    width: 100%;
+    background-color:gray;
+    color:white;
+    display:flex;
+}
+
+.nav-bar .nav{
+    background-color:green;
+    margin:5px;
+    text-align: center;
+    border:1px solid black;
+    border-radius:50%;
+    width:100px;
+}
+
+.nav-bar .profile-picture{
+    position:absolute;
+    right:10px;
+    height:80px;
+    margin-right:0;
+}
+
+.main{
+    display:grid;
+    grid-template-columns:12% 88%;
+    background-color:rgb(97, 13, 13);
+    height:690px;
+}
+
+/******LEFT COLUMN********/
+.left-column{
+    background-color: rgb(66, 63, 64);
+    
+}
+
+.chat{
+    background-color: indigo;
+    padding:10px;
+    position:absolute;
+    top:200px;
+    width:100px;
+    left:20px;
+}
+.chat-room{
+    background-color: black;
+    padding:10px;
+    position:absolute;
+    top:400px;
+    width:100px;
+    left:20px;
+    
+}
+.sign-out{      
+    background-color:rgb(12, 12, 99);
+    padding:10px;
+    position:absolute;
+    bottom:10px;
+    left:50px
+}
+
+/*******RIGHT-COLUMN*******/
+.right{
+    background-color: rgb(58, 53, 53);
+}
