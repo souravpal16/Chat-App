@@ -47,7 +47,7 @@ body{
     background-color: indigo;
     padding:10px;
     position:absolute;
-    top:200px;
+    top:100px;
     width:100px;
     left:20px;
 }
@@ -55,10 +55,20 @@ body{
     background-color: black;
     padding:10px;
     position:absolute;
-    top:400px;
+    top:200px;
     width:100px;
     left:20px;
     
+}
+.Personal{
+    background-color: black;
+    padding:10px;
+    position:absolute;
+    top:300px;
+    width:100px;
+    left:20px;
+
+
 }
 .sign-out{      
     background-color:rgb(12, 12, 99);
