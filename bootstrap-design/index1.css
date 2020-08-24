@@ -1,0 +1,58 @@
+body{
+    margin:0;
+    height:700px;
+    background-color: #172424;
+}
+
+nav{
+    height:100px;
+}
+
+.app-logo{
+    height:100px;
+    width:100px;
+}
+
+.left-column{
+    height:690px;
+    background-color: #232B2B;
+    color:white;
+    padding:10px;
+    
+}
+.item{
+    margin-top:30px;
+    
+}
+
+.item a{
+    background-color:#232B2B;
+    color:gray;
+}
+
+.mid-column{
+    height:690px;
+    background-color: #232B2B;
+}
+.mid-nav{
+    background-color: #232B2B;
+}
+.media{
+    margin:10px;
+    color:white;
+    background-color:#213636 ;
+    border-radius:15px;
+}
+.media img{
+    height:70px;
+}
+
+.right-col{
+    height:50px;
+    margin:0;
+}
+
+.message-col{
+    margin-top:580px;
+}
+
