@@ -92,14 +92,14 @@ body{
     background-color: rgb(43, 27, 117);
     position: relative;
     padding: 10px;
-    height: 51px;
+    height: 52px;
     border: black solid 1px;
 }
 .chat-head{
     background-color: rgb(43, 27, 117);
     position: relative;
     padding: 10px;
-    height: 51px;
+    height: 52px;
     border: black solid 1px;
 }
 
@@ -116,4 +116,59 @@ body{
     top: 100px;
     height: 48px;
     width: 54%;
+}
+.Search{
+    background-color: rgb(27, 20, 20);
+    font-size-adjust: initial;
+    padding: 10px;
+    position: absolute;
+    right: 98px;
+    top: 100px;
+    height: 48px;
+    width: 49px;
+}
+.Insert{
+    background-color: rgb(27, 20, 20);
+    padding: 10px;
+    position: absolute;
+    right: 49px;
+    top: 100px;
+    height: 48px;
+    width: 49px;
+}
+.Extra-features{
+    background-color: rgb(27, 20, 20);
+    padding: 10px;
+    position: absolute;
+    right: 0px;
+    top: 100px;
+    height: 48px;
+    width: 49px;
+}
+.Chatbox{
+    background-color: grey;
+    padding: 100px;
+    position: absolute;
+    top: 169px;
+    height: 330px;
+    right: 0;
+    width: 787px;
+}
+.Typebox{
+    background-color: honeydew;
+    padding: 20px;
+    position: absolute;
+    top: 700px;
+    right: 50px;
+    width: 897px;
+    height: 20px;
+}
+.Send-button{
+    background-color: khaki;
+    padding: 20px;
+    position: absolute;
+    top: 700px;
+    right: 0px;
+    width: 50px;
+    height: 20px;
 }
